@@ -5,15 +5,11 @@ prev_page:
   title: 'Causality and Experiments'
 next_page:
   url: /02/2/snow-s-grand-experiment
-  title: 'Snowís ìGrand Experimentî'
+  title: 'Snow‚Äôs ‚ÄúGrand Experiment‚Äù'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 Observation and Visualization: John Snow and the Broad Street Pump
 ------------------------------------------------------------------
 
 One of the earliest examples of astute observation eventually leading to the
-establishment of causality dates back more than 150 years. To get your mind into
-the right timeframe, try to imagine London in the 1850‚Äôs. It was the world‚Äôs
-wealthiest city but many of its people were desperately poor. Charles Dickens,
-then at the height of his fame, was writing about their plight. Disease was rife
-in the poorer parts of the city, and cholera was among the most feared. It was
+establishment of causality dates back more than 150 years. 
